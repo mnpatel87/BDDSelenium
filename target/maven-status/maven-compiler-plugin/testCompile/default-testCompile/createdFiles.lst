@@ -1,0 +1,9 @@
+org\example\step_definition\LoginSteps.class
+org\example\step_definition\RegistrationSteps.class
+org\example\Hooks.class
+org\example\pages\RegistrationPage.class
+org\example\pages\LoginPage.class
+org\example\RunCukesTest.class
+org\example\pages\HomePage.class
+org\example\driver\DriverManager.class
+org\example\step_definition\HomeSteps.class
