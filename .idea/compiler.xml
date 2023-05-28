@@ -7,8 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SeleniumBDD" />
-        <module name="SeleniumBdd" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SeleniumBdd" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
